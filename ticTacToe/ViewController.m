@@ -122,7 +122,7 @@
     }else if([_btn1 currentTitle] == value && [_btn5 currentTitle] == value && [_btn9 currentTitle] == value){
         [self changeColor:@"green" button:_btn1];
         [self changeColor:@"green" button:_btn5];
-        [self changeColor:@"green" button:_btn7];
+        [self changeColor:@"green" button:_btn9];
     }else if([_btn3 currentTitle] == value && [_btn5 currentTitle] == value && [_btn7 currentTitle] == value){
         [self changeColor:@"green" button:_btn3];
         [self changeColor:@"green" button:_btn5];
